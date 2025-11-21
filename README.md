@@ -1,6 +1,6 @@
 # Geospatial Assessment of Environmental Liabilities: Water Stress and Climate Resilience along Tanzania's Belt and Road Initiative Corridors.
 
-This repository contains all supplementary materials for the manuscript submitted to Environmental Challenges. It includes the complete analysis code (Google Earth Engine JavaScript API and Python scripts), pre-processed datasets, detailed results, and the full set of supplementary tables and figures necessary to fully reproduce the study's findings of the paper titled "Quantifying Environmental Liabilities Along Tanzania's Development Corridors: A Geospatial Assessment of Water Stress and Climate Resilience.".
+This repository contains all supplementary materials for the manuscript submitted to Environmental Challenges. It includes the complete analysis code (Google Earth Engine JavaScript API and Python scripts), pre-processed datasets, detailed results, and the full set of supplementary tables and figures necessary to fully reproduce the study's findings of the paper titled "Quantifying Environmental Liabilities Along Tanzania's Development Corridors: A Geospatial Assessment of Water Stress and Climate Resilience."
 
 ## Quick Start
 
