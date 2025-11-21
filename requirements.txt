@@ -1,0 +1,29 @@
+geospatial-environmental-liabilities-tz/
+│
+├── 01_Input_Data/
+│   ├── BRI_Corridors_TZ.geojson
+│   ├── Administrative_Boundaries_TZ.geojson
+│   └── Watershed_Basins_TZ.geojson
+│
+├── 02_Google_Earth_Engine_Scripts/
+│   ├── 01_Data_Collection.js
+│   ├── 02_Variable_Calculation.js
+│   └── 03_Image_Export.js
+│
+├── 03_Python_Analysis/
+│   ├── requirements.txt
+│   ├── 01_WSI_Calculation.ipynb
+│   ├── 02_CRI_PCA_Analysis.ipynb
+│   ├── 03_Spatial_Overlay_Analysis.ipynb
+│   └── utils.py
+│
+├── 04_Output_Results/
+│   ├── Final_WSI_Raster.tif
+│   ├── Final_CRI_Raster.tif
+│   ├── Liability_Classification_Map.tif
+│   └── Summary_Statistics_Table.csv
+│
+└── 05_Supplementary_Materials/
+    ├── Figure_S1_Workflow_Diagram.png
+    ├── Table_S1_Variable_Description.csv
+    └── Table_S2_PCA_Loadings.csv
